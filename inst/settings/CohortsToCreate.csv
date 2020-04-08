@@ -1,0 +1,5 @@
+atlasId,atlasName,cohortId,name
+517,[DYLee] COVID19 with mental disorder V3,517,DYLee_COVID19_with_mental_disorder_V3
+515,[DYLee] COVID19 without mental disorder V3,515,DYLee_COVID19_without_mental_disorder_V3
+518,"[JHCho] Primary composite end point-ICU admission, invasive ventilation, ECMO, or death",518,JHCho_Primary_composite_end_pointICU_admission_invasive_ventilation_ECMO_or_death
+355,[JHCho]any death,355,JHChoany_death
